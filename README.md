@@ -4,7 +4,7 @@ This is a solution to the [Pricing component with toggle challenge on Frontend M
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://calm-hummingbird-70c43c.netlify.app/
 
 ### Screenshot
 
